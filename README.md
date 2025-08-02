@@ -147,7 +147,7 @@ Para ejecutar este proyecto localmente, sigue los siguientes pasos:
 
 *   **Inicio de Sesión:**
     *   Abre tu navegador y navega a `http://localhost:3000/signin`.
-    *   Utiliza las credenciales de prueba predefinidas en los Route Handlers de la API de autenticación (ejemplo: **Usuario:** `user@example.com`, **Contraseña:** `password123`).
+    *   Utiliza las credenciales de prueba predefinidas en los Route Handlers de la API de autenticación (ejemplo: **Usuario:** `admin@spsgroup.com.br`, **Contraseña:** `1234`).
 *   **Gestión de Usuarios (CRUD):**
     *   Después de iniciar sesión exitosamente, serás redirigido automáticamente a la página de listado de usuarios (`/users`).
     *   Desde esta página, podrás:
